@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5417881826959568527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8191235957301573169}
+  m_Layer: 0
+  m_Name: VR ELEVATOR MH
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8191235957301573169
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5417881826959568527}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.2214897, y: 0.61799836, z: 2.6858459}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8628448202172990837}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &8085331949077160606
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8191235957301573169}
+    m_Modifications:
+    - target: {fileID: -9164149386208607281, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: -8841430373998526155, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8621460348920911413, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: -8595402694860210136, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: -7163994764749699035, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: -7053372682335770830, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: -5229014450444988686, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: -4418206275973093840, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: -4058666349763675968, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: -3726743949579000774, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: -1098679316217515279, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: 919132149155446097, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Name
+      value: VR TRAVEL AGENCY TRANSPORT ROOM 3 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1629300563040844122, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: 2581555034679047112, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: 4501813386609065511, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: 5554958126345998292, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: 6308410471805915432, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    - target: {fileID: 6980418164323921588, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 061cb1920ee01854d99f339ab0798d48, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+--- !u!4 &8628448202172990837 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b08c5c20c86824f4caa64589d2916ed3, type: 3}
+  m_PrefabInstance: {fileID: 8085331949077160606}
+  m_PrefabAsset: {fileID: 0}
